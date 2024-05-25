@@ -1,0 +1,25 @@
+name: Digimon
+comment: ''
+sub-series: []
+randomizers:
+-   game: Digimon World
+    url: https://github.com/meekrhino/digimon_world_randomizer
+    identifier: meekrhino's
+    original: '- [Digimon World](https://github.com/meekrhino/digimon_world_randomizer)
+        (meekrhino''s)'
+-   game: Digimon World 2
+    url: https://discord.com/invite/rtFMVyZkbY
+    identifier: GlorySeeker's
+    original: '- [Digimon World 2](https://discord.com/invite/rtFMVyZkbY) (GlorySeeker''s)
+        - Discord account required - Located in the #tool-releases channel'
+    comment: '- Discord account required - Located in the #tool-releases channel'
+-   game: Digimon World 3
+    url: https://www.romhacking.net/utilities/1788/
+    identifier: markisha64's
+    original: '- [Digimon World 3](https://www.romhacking.net/utilities/1788/) (markisha64''s)'
+-   game: 'Digimon Story Cyber Sleuth: Complete Edition'
+    url: https://gamebanana.com/mods/369682
+    identifier: zeak6464's
+    original: '- [Digimon Story Cyber Sleuth: Complete Edition](https://gamebanana.com/mods/369682)
+        (zeak6464''s) - [Source code](https://github.com/zeak6464/Digimon-Cyber-Sleuth-Mods)'
+    comment: '- [Source code](https://github.com/zeak6464/Digimon-Cyber-Sleuth-Mods)'

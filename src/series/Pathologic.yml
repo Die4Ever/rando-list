@@ -1,0 +1,9 @@
+name: Pathologic
+comment: ''
+sub-series: []
+randomizers:
+-   game: Pathologic 2
+    url: https://www.nexusmods.com/pathologic2/mods/6
+    identifier: District Randomizer Mod
+    original: '- [Pathologic 2](https://www.nexusmods.com/pathologic2/mods/6) (District
+        Randomizer Mod)'

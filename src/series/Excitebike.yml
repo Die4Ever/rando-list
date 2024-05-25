@@ -1,0 +1,8 @@
+name: Excitebike
+comment: ''
+sub-series: []
+randomizers:
+-   game: Excitebike
+    url: https://github.com/gameboy9/ExciteBikeRando
+    identifier: gameboy9's
+    original: '- [Excitebike](https://github.com/gameboy9/ExciteBikeRando) (gameboy9''s)'

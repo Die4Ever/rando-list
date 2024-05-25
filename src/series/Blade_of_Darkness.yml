@@ -1,0 +1,14 @@
+name: Blade of Darkness
+comment: ''
+sub-series: []
+randomizers:
+-   game: Blade of Darkness
+    url: https://www.moddb.com/mods/gorentity-mod-2015
+    identifier: Gorentity Mod with Random Enemy Creator
+    original: '- [Blade of Darkness](https://www.moddb.com/mods/gorentity-mod-2015)
+        (Gorentity Mod with Random Enemy Creator)'
+-   game: Blade of Darkness
+    url: https://www.moddb.com/mods/metal-mod
+    identifier: Metal Mod
+    original: '- [Blade of Darkness](https://www.moddb.com/mods/metal-mod) (Metal
+        Mod)'

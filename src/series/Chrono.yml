@@ -1,0 +1,19 @@
+name: Chrono
+comment: ''
+sub-series: []
+randomizers:
+-   game: Chrono Trigger
+    url: https://github.com/abyssonym/eternalnightmare
+    identifier: Eternal Nightmare
+    original: '- [Chrono Trigger](https://github.com/abyssonym/eternalnightmare) (Eternal
+        Nightmare)'
+-   game: Chrono Trigger
+    url: https://ctjot.com/
+    identifier: Jets of Time
+    original: '- [Chrono Trigger](https://ctjot.com/) (Jets of Time)'
+-   game: Chrono Trigger
+    url: https://github.com/Anskiy/wingsoftime
+    identifier: Wings of Time
+    original: '- [Chrono Trigger](https://github.com/Anskiy/wingsoftime) (Wings of
+        Time) - _OBSOLETE_'
+    obsolete: true

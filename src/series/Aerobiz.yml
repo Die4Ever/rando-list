@@ -1,0 +1,8 @@
+name: Aerobiz
+comment: ''
+sub-series: []
+randomizers:
+-   game: Aerobiz Supersonic
+    url: https://github.com/stochaztic/aerobonkers
+    identifier: AeroBonkers
+    original: '- [Aerobiz Supersonic](https://github.com/stochaztic/aerobonkers) (AeroBonkers)'

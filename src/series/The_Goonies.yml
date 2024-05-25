@@ -1,0 +1,14 @@
+name: The Goonies
+comment: ''
+sub-series: []
+randomizers:
+-   game: The Goonies II
+    url: https://www.romhacking.net/utilities/1247/
+    identifier: Netsrotti's
+    original: '- [The Goonies II](https://www.romhacking.net/utilities/1247/) (Netsrotti''s)
+        - _OBSOLETE_'
+    obsolete: true
+-   game: The Goonies II
+    url: https://goonies2r.com/en
+    identifier: Veetorp's
+    original: '- [The Goonies II](https://goonies2r.com/en) (Veetorp''s)'

@@ -1,0 +1,9 @@
+name: Starfield
+comment: ''
+sub-series: []
+randomizers:
+-   game: Starfield
+    url: https://www.nexusmods.com/starfield/mods/7514
+    identifier: Enemy Weapon Randomizer
+    original: '- [Starfield](https://www.nexusmods.com/starfield/mods/7514) (Enemy
+        Weapon Randomizer)'

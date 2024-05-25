@@ -1,0 +1,22 @@
+name: Terraria
+comment: ''
+sub-series: []
+randomizers:
+-   game: Terraria
+    url: http://artemis251.fobby.net/stuff/terrariaMusic.html
+    identifier: Chest Randomizer
+    original: '- [Terraria](http://artemis251.fobby.net/stuff/terrariaMusic.html)
+        (Chest Randomizer)'
+-   game: Terraria
+    url: https://forums.terraria.org/index.php?threads/terraria-flag-randomizer.113407/
+    identifier: Flag Randomizer
+    original: '- [Terraria](https://forums.terraria.org/index.php?threads/terraria-flag-randomizer.113407/)
+        (Flag Randomizer) - Requires [tModLoader](https://tmodloader.net/)'
+    comment: '- Requires [tModLoader](https://tmodloader.net/)'
+-   game: Terraria
+    url: https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/
+    identifier: JamSnack's
+    original: '- [Terraria](https://forums.terraria.org/index.php?threads/randomizer-challenge-mod.83163/)
+        (JamSnack''s) - Requires [tModLoader](https://tmodloader.net/)'
+    comment: '- Requires [tModLoader](https://tmodloader.net/)'
+-   original: '- Terraria - _See at end of list: Multi-series, Connected worlds_'

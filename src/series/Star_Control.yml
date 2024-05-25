@@ -1,0 +1,9 @@
+name: Star Control
+comment: ''
+sub-series: []
+randomizers:
+-   game: The Ur-Quan Masters (Star Control II open source port)
+    url: https://www.infiniteurquanmasters.com/
+    identifier: Infinite Ur Quan Masters
+    original: '- [The Ur-Quan Masters (Star Control II open source port)](https://www.infiniteurquanmasters.com/)
+        (Infinite Ur Quan Masters)'

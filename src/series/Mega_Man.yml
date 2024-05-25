@@ -1,0 +1,131 @@
+name: Mega Man
+comment: ''
+sub-series:
+- Classic
+- X
+- Battle Network
+- Unofficial
+randomizers:
+-   game: Mega Man
+    url: https://github.com/avvie/MegamanRandomizer
+    identifier: avvie & JoJoCrusade's
+    original: '- [Mega Man](https://github.com/avvie/MegamanRandomizer) (avvie & JoJoCrusade''s)'
+    subheading: Classic
+-   game: Mega Man 2
+    url: https://github.com/duckfist/MM2Random
+    identifier: duckfist's
+    original: '- [Mega Man 2](https://github.com/duckfist/MM2Random) (duckfist''s)
+        - _OBSOLETE_'
+    subheading: Classic
+    obsolete: true
+-   game: Mega Man 2
+    url: https://github.com/squid-man/MegaMan2Randomizer2
+    identifier: Randomizer 2
+    original: '- [Mega Man 2](https://github.com/squid-man/MegaMan2Randomizer2) (Randomizer
+        2)'
+    subheading: Classic
+-   game: Mega Man 2
+    url: https://www.romhacking.net/hacks/2294/
+    identifier: Endless
+    original: '- [Mega Man 2](https://www.romhacking.net/hacks/2294/) (Endless)'
+    subheading: Classic
+-   game: Mega Man 3 / Mega Man 4 / Mega Man 5
+    url: https://www.himaq5.xyz/rock5easily/ips.html
+    identifier: Endless
+    original: "- [Mega Man 3 / Mega Man 4 / Mega Man 5](https://www.himaq5.xyz/rock5easily/ips.html)\
+        \ (Endless) - Located under \u30CF\u30C3\u30AF as \u30ED\u30C3\u30AF\u30DE\
+        \u30F33 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 3, \u30ED\u30C3\u30AF\u30DE\
+        \u30F34 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 4 and \u30ED\u30C3\u30AF\
+        \u30DE\u30F35 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 5"
+    subheading: Classic
+    comment: "- Located under \u30CF\u30C3\u30AF as \u30ED\u30C3\u30AF\u30DE\u30F3\
+        3 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 3, \u30ED\u30C3\u30AF\u30DE\u30F3\
+        4 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 4 and \u30ED\u30C3\u30AF\u30DE\
+        \u30F35 \u30A8\u30F3\u30C9\u30EC\u30B9 for Mega Man 5"
+-   game: Mega Man 4
+    url: https://borokobo.web.fc2.com/#Rock4
+    identifier: NBoroKobo's
+    original: "- [Mega Man 4](https://borokobo.web.fc2.com/#Rock4) (NBoroKobo's) -\
+        \ Randomizes enemies and items - Located under \u30ED\u30C3\u30AF\u30DE\u30F3\
+        4 as \u30ED\u30C3\u30AF\u30DE\u30F34\u30E9\u30F3\u30C0\u30DE\u30A4\u30B6\u30FC"
+    subheading: Classic
+    comment: "- Randomizes enemies and items - Located under \u30ED\u30C3\u30AF\u30DE\
+        \u30F34 as \u30ED\u30C3\u30AF\u30DE\u30F34\u30E9\u30F3\u30C0\u30DE\u30A4\u30B6\
+        \u30FC"
+-   game: Mega Man 6
+    url: https://web.archive.org/web/20180819085015/http://bin.smwcentral.net/u/24848/mm6-weapon-randomizer-v0.1.zip
+    identifier: Raidenthequick's Weapon Randomizer
+    original: '- [Mega Man 6](https://web.archive.org/web/20180819085015/http://bin.smwcentral.net/u/24848/mm6-weapon-randomizer-v0.1.zip)
+        (Raidenthequick''s Weapon Randomizer)'
+    subheading: Classic
+-   game: Mega Man 7
+    url: https://borokobo.web.fc2.com/#Rock7
+    identifier: Endless / Rainbow Session Randomizer
+    original: "- [Mega Man 7](https://borokobo.web.fc2.com/#Rock7) (Endless / Rainbow\
+        \ Session Randomizer) - Located under \u30ED\u30C3\u30AF\u30DE\u30F37"
+    subheading: Classic
+    comment: "- Located under \u30ED\u30C3\u30AF\u30DE\u30F37"
+-   game: 'Mega Man: The Wily Wars'
+    url: https://github.com/MaximumLance/Wily-Wars-Randomizer
+    identifier: MaximumLance's
+    original: '- [Mega Man: The Wily Wars](https://github.com/MaximumLance/Wily-Wars-Randomizer)
+        (MaximumLance''s)'
+    subheading: Classic
+-   original: '- Mega Man X3 / Zero Project (hack) - _See at end of list: Multi-series,
+        Other_'
+-   game: Mega Man X6
+    url: https://www.romhacking.net/utilities/1414/
+    identifier: Tweaks Patcher
+    original: '- [Mega Man X6](https://www.romhacking.net/utilities/1414/) (Tweaks
+        Patcher) - Modding tool with bundled randomizer'
+    subheading: X
+    comment: '- Modding tool with bundled randomizer'
+-   game: Mega Man Battle Network (Legacy Collection)
+    url: https://github.com/NecroCorey/Undernet-Trader
+    identifier: Undernet-Trader
+    original: '- [Mega Man Battle Network (Legacy Collection)](https://github.com/NecroCorey/Undernet-Trader)
+        (Undernet-Trader)'
+    subheading: Battle Network
+-   game: Mega Man Battle Network 2
+    url: https://devonfae.github.io/NETCUST2/
+    identifier: Network Customizer
+    original: '- [Mega Man Battle Network 2](https://devonfae.github.io/NETCUST2/)
+        (Network Customizer)'
+    subheading: Battle Network
+-   game: Mega Man Battle Network 3 White / Mega Man Battle Network 3 Blue
+    url: http://ngplus.net/index.php?/files/file/37-mega-man-battle-network-3-randomizer/
+    identifier: X Kirby's
+    original: '- [Mega Man Battle Network 3 White / Mega Man Battle Network 3 Blue](http://ngplus.net/index.php?/files/file/37-mega-man-battle-network-3-randomizer/)
+        (X Kirby''s)'
+    subheading: Battle Network
+-   game: Mega Man Battle Network 3 White
+    url: https://github.com/samfin/mmbn3-random
+    identifier: samfin's
+    original: '- [Mega Man Battle Network 3 White](https://github.com/samfin/mmbn3-random)
+        (samfin''s) - _OBSOLETE_'
+    subheading: Battle Network
+    obsolete: true
+-   original: '- Mega Man Battle Network 3 Blue - _See at end of list: Multi-series,
+        Connected worlds_'
+-   game: Mega Man Battle Network 5 Team Protoman / Mega Man Battle Network 5 Team
+        Colonel / Mega Man Battle Network 6 Cybeast Gregar / Mega Man Battle Network
+        6 Cybeast Falzar
+    url: https://forums.therockmanexezone.com/mmbn-randomizer-t15216.html
+    identifier: Prof. 9's
+    original: '- [Mega Man Battle Network 5 Team Protoman / Mega Man Battle Network
+        5 Team Colonel / Mega Man Battle Network 6 Cybeast Gregar / Mega Man Battle
+        Network 6 Cybeast Falzar](https://forums.therockmanexezone.com/mmbn-randomizer-t15216.html)
+        (Prof. 9''s)'
+    subheading: Battle Network
+-   game: Mega Man Battle Chip Challenge (Game Boy Advance)
+    url: https://melancholytree.com/mmbccr/
+    identifier: Sam Donow's
+    original: '- [Mega Man Battle Chip Challenge (Game Boy Advance)](https://melancholytree.com/mmbccr/)
+        (Sam Donow''s)'
+    subheading: Battle Network
+-   game: 'Rockman 3: Winternight (Mega Man 3 hack)'
+    url: https://www.romhacking.net/hacks/4106/
+    identifier: Endless Version
+    original: '- [Rockman 3: Winternight (Mega Man 3 hack)](https://www.romhacking.net/hacks/4106/)
+        (Endless Version)'
+    subheading: Unofficial

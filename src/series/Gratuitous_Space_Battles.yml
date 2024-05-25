@@ -1,0 +1,9 @@
+name: Gratuitous Space Battles
+comment: ''
+sub-series: []
+randomizers:
+-   game: Gratuitous Space Battles
+    url: https://www.moddb.com/mods/gsb-galaxy-generator
+    identifier: Galaxy generator
+    original: '- [Gratuitous Space Battles](https://www.moddb.com/mods/gsb-galaxy-generator)
+        (Galaxy generator)'

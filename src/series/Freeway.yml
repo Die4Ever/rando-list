@@ -1,0 +1,8 @@
+name: Freeway
+comment: ''
+sub-series: []
+randomizers:
+-   game: Freeway
+    url: https://www.romhacking.net/utilities/720/
+    identifier: Steve Englehardt's
+    original: '- [Freeway](https://www.romhacking.net/utilities/720/) (Steve Englehardt''s)'

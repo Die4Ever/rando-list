@@ -1,0 +1,10 @@
+name: Rogue Legacy
+comment: ''
+sub-series: []
+randomizers:
+-   game: Rogue Legacy
+    url: https://github.com/ThePhar/RogueLegacyRandomizer
+    identifier: Phar's
+    original: '- [Rogue Legacy](https://github.com/ThePhar/RogueLegacyRandomizer)
+        (Phar''s)'
+-   original: '- Rogue Legacy - _See at end of list: Multi-series, Connected worlds_'

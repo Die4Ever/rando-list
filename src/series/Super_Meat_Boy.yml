@@ -1,0 +1,9 @@
+name: Super Meat Boy
+comment: ''
+sub-series: []
+randomizers:
+-   game: Super Meat Boy
+    url: https://github.com/negative-seven/smb-randomizer
+    identifier: negative-seven
+    original: '- [Super Meat Boy](https://github.com/negative-seven/smb-randomizer)
+        (negative-seven)'

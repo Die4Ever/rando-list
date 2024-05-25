@@ -1,0 +1,15 @@
+name: Yu-Gi-Oh!
+comment: ''
+sub-series: []
+randomizers:
+-   game: Yu-Gi-Oh! Forbidden Memories
+    url: https://www.speedrun.com/yugiohfm/resources
+    identifier: Complete Randomizer / Random Startdeck Mod
+    original: '- [Yu-Gi-Oh! Forbidden Memories](https://www.speedrun.com/yugiohfm/resources)
+        (Complete Randomizer / Random Startdeck Mod) - Located under Patches'
+    comment: '- Located under Patches'
+-   game: Yu-Gi-Oh! The Duelists of the Roses
+    url: https://github.com/GenericMadScientist/DotR-Randomiser
+    identifier: GenericMadScientist's
+    original: '- [Yu-Gi-Oh! The Duelists of the Roses](https://github.com/GenericMadScientist/DotR-Randomiser)
+        (GenericMadScientist''s)'

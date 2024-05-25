@@ -1,0 +1,8 @@
+name: Solstice
+comment: ''
+sub-series: []
+randomizers:
+-   game: Solstice
+    url: https://pbandpickle.com/
+    identifier: pbandpickle's
+    original: '- [Solstice](https://pbandpickle.com/) (pbandpickle''s)'

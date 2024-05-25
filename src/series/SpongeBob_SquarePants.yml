@@ -1,0 +1,13 @@
+name: SpongeBob SquarePants
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)'
+    url: https://github.com/Cyb3RGER/bfbb_ap_world/
+    identifier: BfBB AP World
+    original: '- [SpongeBob SquarePants: Battle for Bikini Bottom (GameCube)](https://github.com/Cyb3RGER/bfbb_ap_world/)
+        (BfBB AP World) - Requires [Archipelago](https://archipelago.gg/)'
+    comment: '- Requires [Archipelago](https://archipelago.gg/)'
+-   original: '- SpongeBob SquarePants: Battle for Bikini Bottom (GameCube / Xbox
+        / PS2) / The SpongeBob SquarePants Movie (GameCube / Xbox / PS2) - _See at
+        end of list: Multi-series, Other_'

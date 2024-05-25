@@ -1,0 +1,9 @@
+name: Palworld
+comment: ''
+sub-series: []
+randomizers:
+-   game: Palworld
+    url: https://github.com/DavidEMorales/PalworldOverworldSpawnRandomizer
+    identifier: Overworld Spawn Randomizer
+    original: '- [Palworld](https://github.com/DavidEMorales/PalworldOverworldSpawnRandomizer)
+        (Overworld Spawn Randomizer)'

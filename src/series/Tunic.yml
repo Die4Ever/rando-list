@@ -1,0 +1,15 @@
+name: Tunic
+comment: ''
+sub-series: []
+randomizers:
+-   game: Tunic
+    url: https://github.com/Dr4g0nsoul/TunicRandomizer
+    identifier: Item Randomizer
+    original: '- [Tunic](https://github.com/Dr4g0nsoul/TunicRandomizer) (Item Randomizer)
+        - _OBSOLETE_'
+    obsolete: true
+-   game: Tunic
+    url: https://github.com/silent-destroyer/tunic-randomizer
+    identifier: SilentDestroyer's
+    original: '- [Tunic](https://github.com/silent-destroyer/tunic-randomizer) (SilentDestroyer''s)'
+-   original: '- Tunic - _See at end of list: Multi-series, Connected worlds_'

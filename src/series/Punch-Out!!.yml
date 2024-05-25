@@ -1,0 +1,9 @@
+name: Punch-Out!!
+comment: ''
+sub-series: []
+randomizers:
+-   game: Mike Tyson's Punch-Out!!
+    url: https://authorblues.github.io/mtporandomizer/
+    identifier: authorblues's
+    original: '- [Mike Tyson''s Punch-Out!!](https://authorblues.github.io/mtporandomizer/)
+        (authorblues''s)'

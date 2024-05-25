@@ -1,0 +1,11 @@
+name: Landstalker
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Landstalker: The Treasures of King Nole'
+    url: https://randstalker.ovh/
+    identifier: Randstalker
+    original: '- [Landstalker: The Treasures of King Nole](https://randstalker.ovh/)
+        (Randstalker)'
+-   original: '- Landstalker: The Treasures of King Nole - _See at end of list: Multi-series,
+        Connected worlds_'

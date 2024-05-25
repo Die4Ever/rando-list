@@ -1,0 +1,14 @@
+name: Pikmin
+comment: ''
+sub-series: []
+randomizers:
+-   game: Pikmin
+    url: https://github.com/Minty-Meeo/Pikmin-1-Randomizer-Gecko
+    identifier: Minty-Meeo's
+    original: '- [Pikmin](https://github.com/Minty-Meeo/Pikmin-1-Randomizer-Gecko)
+        (Minty-Meeo''s)'
+-   game: Pikmin 2
+    url: https://uckuiy4gtnjwosehfomppag.blogspot.com/2021/03/pikmin2-randomizer-v36.html
+    identifier: kurumizome's
+    original: '- [Pikmin 2](https://uckuiy4gtnjwosehfomppag.blogspot.com/2021/03/pikmin2-randomizer-v36.html)
+        (kurumizome''s)'

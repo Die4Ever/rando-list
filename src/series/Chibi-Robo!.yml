@@ -1,0 +1,8 @@
+name: Chibi-Robo!
+comment: ''
+sub-series: []
+randomizers:
+-   game: Chibi-Robo!
+    url: https://github.com/JBDdev/Chibi-Robo-Randomizer
+    identifier: JBDdev's
+    original: '- [Chibi-Robo!](https://github.com/JBDdev/Chibi-Robo-Randomizer) (JBDdev''s)'

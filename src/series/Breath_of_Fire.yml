@@ -1,0 +1,19 @@
+name: Breath of Fire
+comment: ''
+sub-series: []
+randomizers:
+-   game: Breath of Fire
+    url: https://github.com/pelador/Breath-of-Fire-Rando
+    identifier: pelador's
+    original: '- [Breath of Fire](https://github.com/pelador/Breath-of-Fire-Rando)
+        (pelador''s)'
+-   original: '- Breath of Fire - _See at end of list: Multi-series, Other_'
+-   game: Breath of Fire II
+    url: https://github.com/abyssonym/painsong
+    identifier: Painsong
+    original: '- [Breath of Fire II](https://github.com/abyssonym/painsong) (Painsong)'
+-   game: Breath of Fire III
+    url: https://github.com/abyssonym/vast_violence
+    identifier: The Vast and the Violent
+    original: '- [Breath of Fire III](https://github.com/abyssonym/vast_violence)
+        (The Vast and the Violent)'

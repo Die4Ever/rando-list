@@ -1,0 +1,10 @@
+name: StarCraft
+comment: ''
+sub-series: []
+randomizers:
+-   game: StarCraft II
+    url: https://github.com/Die4Ever/starcraft-2-randomizer
+    identifier: Balance Patch Randomizer
+    original: '- [StarCraft II](https://github.com/Die4Ever/starcraft-2-randomizer)
+        (Balance Patch Randomizer)'
+-   original: '- StarCraft II - _See at end of list: Multi-series, Connected worlds_'

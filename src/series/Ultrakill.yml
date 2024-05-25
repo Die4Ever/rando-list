@@ -1,0 +1,10 @@
+name: Ultrakill
+comment: ''
+sub-series: []
+randomizers:
+-   game: Ultrakill
+    url: https://github.com/TRPG0/ArchipelagoULTRAKILL
+    identifier: ArchipelagoULTRAKILL
+    original: '- [Ultrakill](https://github.com/TRPG0/ArchipelagoULTRAKILL) (ArchipelagoULTRAKILL)
+        - Requires [Archipelago](https://archipelago.gg/)'
+    comment: '- Requires [Archipelago](https://archipelago.gg/)'

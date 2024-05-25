@@ -1,0 +1,9 @@
+name: Rain World
+comment: ''
+sub-series: []
+randomizers:
+-   game: Rain World
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=2933916034
+    identifier: Enemy Randomizer
+    original: '- [Rain World](https://steamcommunity.com/sharedfiles/filedetails/?id=2933916034)
+        (Enemy Randomizer)'

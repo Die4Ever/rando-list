@@ -1,0 +1,29 @@
+name: Stardew Valley
+comment: ''
+sub-series: []
+randomizers:
+-   game: Stardew Valley
+    url: https://www.nexusmods.com/stardewvalley/mods/20425
+    identifier: Community Center Bundles Randomizer
+    original: '- [Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/20425)
+        (Community Center Bundles Randomizer)'
+-   game: Stardew Valley
+    url: https://github.com/chikakoo/stardew-valley-randomizer
+    identifier: More Random Edition
+    original: '- [Stardew Valley](https://github.com/chikakoo/stardew-valley-randomizer)
+        (More Random Edition) - Unofficial [compatibility fix for newer SMAPI versions](https://www.nexusmods.com/stardewvalley/mods/16921)'
+    comment: '- Unofficial [compatibility fix for newer SMAPI versions](https://www.nexusmods.com/stardewvalley/mods/16921)'
+-   game: Stardew Valley
+    url: https://www.nexusmods.com/stardewvalley/mods/7151
+    identifier: Queen of Sauce Randomizer
+    original: '- [Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/7151)
+        (Queen of Sauce Randomizer)'
+-   game: Stardew Valley
+    url: https://stardewvalley.curseforge.com/projects/stardew-valley-randomizer
+    identifier: Tooshi's
+    original: '- [Stardew Valley](https://stardewvalley.curseforge.com/projects/stardew-valley-randomizer)
+        (Tooshi''s) - [Source code](https://github.com/cTooshi/stardew-valley-randomizer)
+        - _OBSOLETE_'
+    obsolete: true
+    comment: '- [Source code](https://github.com/cTooshi/stardew-valley-randomizer)'
+-   original: '- Stardew Valley - _See at end of list: Multi-series, Connected worlds_'

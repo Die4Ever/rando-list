@@ -1,0 +1,9 @@
+name: Ittle Dew
+comment: ''
+sub-series: []
+randomizers:
+-   game: Ittle Dew 2+
+    url: https://github.com/Chris-Is-Awesome/Extra2DewMod
+    identifier: Extra 2 Dew
+    original: '- [Ittle Dew 2+](https://github.com/Chris-Is-Awesome/Extra2DewMod)
+        (Extra 2 Dew)'

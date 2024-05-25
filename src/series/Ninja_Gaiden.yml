@@ -1,0 +1,9 @@
+name: Ninja Gaiden
+comment: ''
+sub-series: []
+randomizers:
+-   game: Ninja Gaiden (NES)
+    url: https://micheilskeens.com/ninja-gaiden-randomizer.php
+    identifier: Micheil Skeens's
+    original: '- [Ninja Gaiden (NES)](https://micheilskeens.com/ninja-gaiden-randomizer.php)
+        (Micheil Skeens''s)'

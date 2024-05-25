@@ -1,0 +1,14 @@
+name: Adventure Island
+comment: ''
+sub-series: []
+randomizers:
+-   game: Adventure Island II
+    url: https://micheilskeens.com/adventure-island-2-randomizer.php
+    identifier: Micheil Skeens's
+    original: '- [Adventure Island II](https://micheilskeens.com/adventure-island-2-randomizer.php)
+        (Micheil Skeens''s)'
+-   game: Super Adventure Island II
+    url: https://github.com/abyssonym/sai2_rando
+    identifier: abyssonym's
+    original: '- [Super Adventure Island II](https://github.com/abyssonym/sai2_rando)
+        (abyssonym''s)'

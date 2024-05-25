@@ -1,0 +1,9 @@
+name: The Simpsons
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'The Simpsons: Hit & Run'
+    url: https://github.com/EnAppelsin/SHARCarRandomiser
+    identifier: EnAppelsin's
+    original: '- [The Simpsons: Hit & Run](https://github.com/EnAppelsin/SHARCarRandomiser)
+        (EnAppelsin''s)'

@@ -1,0 +1,35 @@
+name: 'Elden Ring '
+comment: ''
+sub-series: []
+randomizers:
+-   game: Elden Ring
+    url: https://www.nexusmods.com/eldenring/mods/2683
+    identifier: Elden Loot
+    original: '- [Elden Ring](https://www.nexusmods.com/eldenring/mods/2683) (Elden
+        Loot)'
+-   game: Elden Ring
+    url: https://www.nexusmods.com/eldenring/mods/3295
+    identifier: Fog Gate Randomizer
+    original: '- [Elden Ring](https://www.nexusmods.com/eldenring/mods/3295) (Fog
+        Gate Randomizer) - Unofficial [Randomizer Hints](https://www.nexusmods.com/eldenring/mods/4096)
+        mod'
+    comment: '- Unofficial [Randomizer Hints](https://www.nexusmods.com/eldenring/mods/4096)
+        mod'
+-   game: Elden Ring
+    url: https://www.nexusmods.com/eldenring/mods/97
+    identifier: Item and Param Randomiser
+    original: '- [Elden Ring](https://www.nexusmods.com/eldenring/mods/97) (Item and
+        Param Randomiser)'
+-   game: Elden Ring
+    url: https://www.nexusmods.com/eldenring/mods/428
+    identifier: Item and Enemy Randomizer
+    original: '- [Elden Ring](https://www.nexusmods.com/eldenring/mods/428) (Item
+        and Enemy Randomizer) - Unofficial [Randomizer Hints](https://www.nexusmods.com/eldenring/mods/4096)
+        mod'
+    comment: '- Unofficial [Randomizer Hints](https://www.nexusmods.com/eldenring/mods/4096)
+        mod'
+-   game: Elden Ring
+    url: https://www.nexusmods.com/eldenring/mods/982
+    identifier: Summon Randomizer
+    original: '- [Elden Ring](https://www.nexusmods.com/eldenring/mods/982) (Summon
+        Randomizer)'

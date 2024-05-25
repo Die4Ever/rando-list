@@ -1,0 +1,23 @@
+name: Super Smash Bros.
+comment: ''
+sub-series: []
+randomizers:
+-   game: Super Smash Bros. Melee
+    url: https://bttrandomizer.com/
+    identifier: Break the Targets Randomizer
+    original: '- [Super Smash Bros. Melee](https://bttrandomizer.com/) (Break the
+        Targets Randomizer)'
+-   game: Super Smash Bros. Melee
+    url: https://github.com/drewlith/ssbmr
+    identifier: drewlith's
+    original: '- [Super Smash Bros. Melee](https://github.com/drewlith/ssbmr) (drewlith''s)'
+-   game: Super Smash Bros. Ultimate
+    url: https://skelux.net/showthread.php?tid=954
+    identifier: Skelux's
+    original: '- [Super Smash Bros. Ultimate](https://skelux.net/showthread.php?tid=954)
+        (Skelux''s)'
+-   game: Super Smash Bros. Ultimate
+    url: https://gamebanana.com/tools/9313
+    identifier: WoL Randomizer
+    original: '- [Super Smash Bros. Ultimate](https://gamebanana.com/tools/9313) (WoL
+        Randomizer)'

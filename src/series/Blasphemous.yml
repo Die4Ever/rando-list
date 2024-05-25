@@ -1,0 +1,10 @@
+name: Blasphemous
+comment: ''
+sub-series: []
+randomizers:
+-   game: Blasphemous
+    url: https://www.nexusmods.com/blasphemous/mods/15
+    identifier: Item and Enemy Randomizer
+    original: '- [Blasphemous](https://www.nexusmods.com/blasphemous/mods/15) (Item
+        and Enemy Randomizer)'
+-   original: '- Blasphemous - _See at end of list: Multi-series, Connected worlds_'

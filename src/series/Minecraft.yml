@@ -1,0 +1,28 @@
+name: Minecraft
+comment: '_Old versions of Minecraft: Java Edition are available on Mojang''s website,
+    although note that such versions may contain critical security vulnerabilities.
+    Direct download links can be found on [MCVersions](https://mcversions.net/) for
+    convenience._'
+sub-series: []
+randomizers:
+-   game: 'Minecraft: Java Edition'
+    url: https://fasguy.net/minecraft_toolbox/info
+    identifier: Fasguy's Minecraft Toolbox
+    original: '- [Minecraft: Java Edition](https://fasguy.net/minecraft_toolbox/info)
+        (Fasguy''s Minecraft Toolbox)'
+-   game: 'Minecraft: Java Edition'
+    url: https://www.youtube.com/watch?v=3JEXAZOrykQ
+    identifier: Loot Table Randomizer
+    original: '- [Minecraft: Java Edition](https://www.youtube.com/watch?v=3JEXAZOrykQ)
+        (Loot Table Randomizer) - Located in video description - Requires [Python
+        3](https://www.python.org/downloads/) - _OBSOLETE_'
+    obsolete: true
+    comment: '- Located in video description - Requires [Python 3](https://www.python.org/downloads/)'
+-   game: 'Minecraft: Java Edition'
+    url: https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/
+    identifier: MotzlMotzt's
+    original: '- [Minecraft: Java Edition](https://www.spigotmc.org/resources/randomizer-1-13-1-16-x.77069/)
+        (MotzlMotzt''s) - _OBSOLETE_'
+    obsolete: true
+-   original: '- Minecraft: Java Edition - _See at end of list: Multi-series, Connected
+        worlds_'

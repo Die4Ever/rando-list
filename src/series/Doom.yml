@@ -1,0 +1,50 @@
+name: Doom
+comment: ''
+sub-series: []
+randomizers:
+-   original: '- Doom (Ultimate) / Doom II / Final Doom / Harmony (fangame) - _See
+        at end of list: Multi-series, id Software engines_'
+-   game: Doom (Ultimate) / Doom II / Final Doom
+    url: https://www.doomworld.com/forum/topic/106432-vdp-monsterrandomizer-updated-august-12th/
+    identifier: Vanilla Doom Plus
+    original: '- [Doom (Ultimate) / Doom II / Final Doom](https://www.doomworld.com/forum/topic/106432-vdp-monsterrandomizer-updated-august-12th/)
+        (Vanilla Doom Plus)'
+-   game: Doom (Ultimate) / Doom II
+    url: https://forum.zdoom.org/viewtopic.php?f=19&t=45378
+    identifier: ORO-RANDOM-DOOM
+    original: '- [Doom (Ultimate) / Doom II](https://forum.zdoom.org/viewtopic.php?f=19&t=45378)
+        (ORO-RANDOM-DOOM) - _OBSOLETE_'
+    obsolete: true
+-   game: Doom (Ultimate) / Doom II
+    url: https://web.archive.org/web/20040404021558/http://www.doomworld.com/slige/
+    identifier: SLIGE
+    original: '- [Doom (Ultimate) / Doom II](https://web.archive.org/web/20040404021558/http://www.doomworld.com/slige/)
+        (SLIGE) - _OBSOLETE_'
+    obsolete: true
+-   game: Doom (Ultimate) / Doom II
+    url: https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/
+    identifier: Vandomizer
+    original: '- [Doom (Ultimate) / Doom II](https://www.doomworld.com/forum/topic/112713-v104-vandomizer-a-vanilla-randomizer-for-gzdoom/)
+        (Vandomizer)'
+-   original: '- Doom (Ultimate) / Doom II - _See at end of list: Multi-series, Connected
+        worlds_'
+-   game: Doom II / Final Doom
+    url: https://gitlab.com/andwj/populate
+    identifier: The Populator
+    original: '- [Doom II / Final Doom](https://gitlab.com/andwj/populate) (The Populator)'
+-   game: Doom II
+    url: https://samiam.org/obhack/old/slump/slump.html
+    identifier: SLUMP
+    original: '- [Doom II](https://samiam.org/obhack/old/slump/slump.html) (SLUMP)
+        - _OBSOLETE_'
+    obsolete: true
+-   game: Doom Eternal
+    url: https://www.nexusmods.com/doometernal/mods/170
+    identifier: Enemy Randomizer
+    original: '- [Doom Eternal](https://www.nexusmods.com/doometernal/mods/170) (Enemy
+        Randomizer)'
+-   game: Doom Eternal
+    url: https://www.nexusmods.com/doometernal/mods/924
+    identifier: Horde Mode Randomizer
+    original: '- [Doom Eternal](https://www.nexusmods.com/doometernal/mods/924) (Horde
+        Mode Randomizer)'

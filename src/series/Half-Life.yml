@@ -1,0 +1,15 @@
+name: Half-Life
+comment: ''
+sub-series: []
+randomizers:
+-   game: Half-Life
+    url: https://web.archive.org/web/20190926074638/http://www.valvetime.net/threads/randmap-and-its-whereabouts.169050/
+    identifier: Randmap
+    original: '- [Half-Life](https://web.archive.org/web/20190926074638/http://www.valvetime.net/threads/randmap-and-its-whereabouts.169050/)
+        (Randmap)'
+-   game: Half-Life 2
+    url: https://www.gamefront.com/games/half-life-2/file/half-life-2-random-map-creator
+    identifier: Random Map Creator
+    original: '- [Half-Life 2](https://www.gamefront.com/games/half-life-2/file/half-life-2-random-map-creator)
+        (Random Map Creator) - _Game downgrade required_'
+    comment: '- _Game downgrade required_'

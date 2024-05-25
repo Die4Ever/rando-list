@@ -1,0 +1,15 @@
+name: The Witness
+comment: ''
+sub-series: []
+randomizers:
+-   game: The Witness
+    url: https://github.com/jbzdarkid/witness-randomizer/releases
+    identifier: jbzdarkid's
+    original: '- [The Witness](https://github.com/jbzdarkid/witness-randomizer/releases)
+        (jbzdarkid''s)'
+-   game: The Witness
+    url: https://github.com/sigma144/witness-randomizer
+    identifier: Witness Random Puzzle Generator
+    original: '- [The Witness](https://github.com/sigma144/witness-randomizer) (Witness
+        Random Puzzle Generator)'
+-   original: '- The Witness - _See at end of list: Multi-series, Connected worlds_'

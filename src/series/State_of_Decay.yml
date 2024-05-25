@@ -1,0 +1,9 @@
+name: State of Decay
+comment: ''
+sub-series: []
+randomizers:
+-   game: State of Decay
+    url: https://www.nexusmods.com/stateofdecay/mods/135
+    identifier: Character Randomizer
+    original: '- [State of Decay](https://www.nexusmods.com/stateofdecay/mods/135)
+        (Character Randomizer)'

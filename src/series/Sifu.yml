@@ -1,0 +1,8 @@
+name: Sifu
+comment: ''
+sub-series: []
+randomizers:
+-   game: Sifu
+    url: https://www.nexusmods.com/sifu/mods/296
+    identifier: Randomizer Mod
+    original: '- [Sifu](https://www.nexusmods.com/sifu/mods/296) (Randomizer Mod)'

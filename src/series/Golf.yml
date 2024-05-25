@@ -1,0 +1,14 @@
+name: Golf
+comment: ''
+sub-series: []
+randomizers:
+-   game: Golf (NES)
+    url: https://github.com/gameboy9/golfRando/releases
+    identifier: gameboy9's
+    original: '- [Golf (NES)](https://github.com/gameboy9/golfRando/releases) (gameboy9''s)'
+-   game: NES Open Tournament Golf
+    url: https://gist.github.com/TurbulentEddie/4e8fb8e52f64a99dfeb0
+    identifier: Turbulent Eddie's
+    original: '- [NES Open Tournament Golf](https://gist.github.com/TurbulentEddie/4e8fb8e52f64a99dfeb0)
+        (Turbulent Eddie''s) - Requires special emulator [FCEUX](https://sourceforge.net/projects/fceultra/files/Binaries/)'
+    comment: '- Requires special emulator [FCEUX](https://sourceforge.net/projects/fceultra/files/Binaries/)'

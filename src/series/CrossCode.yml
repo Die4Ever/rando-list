@@ -1,0 +1,9 @@
+name: CrossCode
+comment: ''
+sub-series: []
+randomizers:
+-   game: CrossCode
+    url: https://github.com/CCDirectLink/CCItemRandomizer
+    identifier: Item Randomizer
+    original: '- [CrossCode](https://github.com/CCDirectLink/CCItemRandomizer) (Item
+        Randomizer)'

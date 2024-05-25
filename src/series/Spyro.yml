@@ -1,0 +1,15 @@
+name: Spyro
+comment: ''
+sub-series: []
+randomizers:
+-   game: Spyro the Dragon
+    url: https://www.youtube.com/watch?v=jYrPQZnwXSk&t=3s
+    identifier: Requirement Randomizer
+    original: '- [Spyro the Dragon](https://www.youtube.com/watch?v=jYrPQZnwXSk&t=3s)
+        (Requirement Randomizer) - Located in video description'
+    comment: '- Located in video description'
+-   game: 'Spyro: Year of the Dragon'
+    url: https://twitter.com/hwd405/status/1617036701980889088?cxt=HHwWgMC4pYSU7_AsAAAA
+    identifier: hwd405's
+    original: '- [Spyro: Year of the Dragon](https://twitter.com/hwd405/status/1617036701980889088?cxt=HHwWgMC4pYSU7_AsAAAA)
+        (hwd405''s)'

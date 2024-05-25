@@ -1,0 +1,9 @@
+name: Uncharted Waters
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Uncharted Waters: New Horizons'
+    url: https://github.com/Gilmok/UWNHRando
+    identifier: Gilmok's
+    original: '- [Uncharted Waters: New Horizons](https://github.com/Gilmok/UWNHRando)
+        (Gilmok''s)'

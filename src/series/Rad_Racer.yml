@@ -1,0 +1,8 @@
+name: Rad Racer
+comment: ''
+sub-series: []
+randomizers:
+-   game: Rad Racer
+    url: https://github.com/gameboy9/RadRacerRando/releases
+    identifier: gameboy9's
+    original: '- [Rad Racer](https://github.com/gameboy9/RadRacerRando/releases) (gameboy9''s)'

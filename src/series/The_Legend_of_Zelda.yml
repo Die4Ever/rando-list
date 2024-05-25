@@ -1,0 +1,314 @@
+name: The Legend of Zelda
+comment: ''
+sub-series:
+- 2D & 2D-like
+- 3D
+randomizers:
+-   original: '- The Legend of Zelda / The Legend of Zelda: A Link to the Past / The
+        Legend of Zelda: Link''s Awakening DX - _See at end of list: Multi-series,
+        Connected worlds_'
+-   game: The Legend of Zelda
+    url: https://www.romhacking.net/hacks/7358/
+    identifier: Ancient Dungeon
+    original: '- [The Legend of Zelda](https://www.romhacking.net/hacks/7358/) (Ancient
+        Dungeon)'
+    subheading: 2D & 2D-like
+-   game: The Legend of Zelda
+    url: https://sites.google.com/site/zeldarandomizer/
+    identifier: Fred Coughlin's
+    original: '- [The Legend of Zelda](https://sites.google.com/site/zeldarandomizer/)
+        (Fred Coughlin''s)'
+    subheading: 2D & 2D-like
+-   game: The Legend of Zelda
+    url: https://bitbucket.org/Garmichael/infinite-hyrule/src/master/
+    identifier: Infinite Hyrule
+    original: '- [The Legend of Zelda](https://bitbucket.org/Garmichael/infinite-hyrule/src/master/)
+        (Infinite Hyrule)'
+    subheading: 2D & 2D-like
+-   game: The Legend of Zelda
+    url: https://www.reloadedretro.com/games/zelda
+    identifier: Reloaded
+    original: '- [The Legend of Zelda](https://www.reloadedretro.com/games/zelda)
+        (Reloaded)'
+    subheading: 2D & 2D-like
+-   game: The Legend of Zelda
+    url: https://github.com/tetraly/zelda-randomizer
+    identifier: tetraly's
+    original: '- [The Legend of Zelda](https://github.com/tetraly/zelda-randomizer)
+        (tetraly''s)'
+    subheading: 2D & 2D-like
+-   game: 'Zelda II: The Adventure of Link'
+    url: https://bitbucket.org/digshake/z2randomizer/wiki/Home
+    identifier: Digshake's
+    original: '- [Zelda II: The Adventure of Link](https://bitbucket.org/digshake/z2randomizer/wiki/Home)
+        (Digshake''s) - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+-   game: 'Zelda II: The Adventure of Link'
+    url: https://github.com/Ellendar/Z2Randomizer
+    identifier: Ellendar's
+    original: '- [Zelda II: The Adventure of Link](https://github.com/Ellendar/Z2Randomizer)
+        (Ellendar''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://github.com/Bonta0/ALttPEntranceRandomizer/tree/multiworld_31
+    identifier: Bonta0's Multiworld
+    original: '- [The Legend of Zelda: A Link to the Past](https://github.com/Bonta0/ALttPEntranceRandomizer/tree/multiworld_31)
+        (Bonta0''s Multiworld) - Optional [Enemizer](https://github.com/Bonta0/Enemizer/releases)
+        - Unofficial [setup/instructions guide](https://docs.google.com/document/d/19FoqUkuyStMqhOq8uGiocskMo1KMjOW4nEeG81xrKoI/edit)
+        - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+    comment: '- Optional [Enemizer](https://github.com/Bonta0/Enemizer/releases) -
+        Unofficial [setup/instructions guide](https://docs.google.com/document/d/19FoqUkuyStMqhOq8uGiocskMo1KMjOW4nEeG81xrKoI/edit)'
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://dessyreqt.github.io/alttprandomizer/
+    identifier: Dessyreqt's
+    original: '- [The Legend of Zelda: A Link to the Past](https://dessyreqt.github.io/alttprandomizer/)
+        (Dessyreqt''s) - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://github.com/aerinon/ALttPDoorRandomizer
+    identifier: Door Randomizer
+    original: '- [The Legend of Zelda: A Link to the Past](https://github.com/aerinon/ALttPDoorRandomizer)
+        (Door Randomizer)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://github.com/Zarby89/Enemizer
+    identifier: Enemizer
+    original: '- [The Legend of Zelda: A Link to the Past](https://github.com/Zarby89/Enemizer)
+        (Enemizer) - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://github.com/AmazingAmpharos/ALttPEntranceRandomizer
+    identifier: Entrance Randomizer
+    original: '- [The Legend of Zelda: A Link to the Past](https://github.com/AmazingAmpharos/ALttPEntranceRandomizer)
+        (Entrance Randomizer) - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://alttpr.gwaa.kiwi/en
+    identifier: karafruit's
+    original: '- [The Legend of Zelda: A Link to the Past](https://alttpr.gwaa.kiwi/en)
+        (karafruit''s) - [Source code](https://github.com/ardnaxelarak/alttp_vt_randomizer/tree/ow_shuffle)'
+    subheading: 2D & 2D-like
+    comment: '- [Source code](https://github.com/ardnaxelarak/alttp_vt_randomizer/tree/ow_shuffle)'
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://github.com/codemann8/ALttPDoorRandomizer
+    identifier: Overworld Randomizer
+    original: '- [The Legend of Zelda: A Link to the Past](https://github.com/codemann8/ALttPDoorRandomizer)
+        (Overworld Randomizer)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: A Link to the Past'
+    url: https://alttpr.com/en
+    identifier: Veetorp's
+    original: '- [The Legend of Zelda: A Link to the Past](https://alttpr.com/en)
+        (Veetorp''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: A Link to the Past/Four Swords'
+    url: https://github.com/MichaelK-UnderscoreUnderscore/alttprandomizer_GBA/releases
+    identifier: MichaelK__'s
+    original: '- [The Legend of Zelda: A Link to the Past/Four Swords](https://github.com/MichaelK-UnderscoreUnderscore/alttprandomizer_GBA/releases)
+        (MichaelK__''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: Link''s Awakening DX'
+    url: https://daid.github.io/LADXR/
+    identifier: LADXR
+    original: '- [The Legend of Zelda: Link''s Awakening DX](https://daid.github.io/LADXR/)
+        (LADXR)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: Link''s Awakening DX'
+    url: https://sites.google.com/view/z4randomizer
+    identifier: Z4Randomizer
+    original: '- [The Legend of Zelda: Link''s Awakening DX](https://sites.google.com/view/z4randomizer)
+        (Z4Randomizer)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: Link''s Awakening (Switch)'
+    url: https://github.com/la-switch/LAS-Randomizer
+    identifier: Glan9's
+    original: '- [The Legend of Zelda: Link''s Awakening (Switch)](https://github.com/la-switch/LAS-Randomizer)
+        (Glan9''s) - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+-   game: 'The Legend of Zelda: Link''s Awakening (Switch)'
+    url: https://github.com/Owen-Splat/LAS-Randomizer
+    identifier: Owen-Splat's
+    original: '- [The Legend of Zelda: Link''s Awakening (Switch)](https://github.com/Owen-Splat/LAS-Randomizer)
+        (Owen-Splat''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: Oracle of Ages / The Legend of Zelda: Oracle of Seasons'
+    url: https://github.com/jangler/oracles-randomizer
+    identifier: null
+    original: '- [The Legend of Zelda: Oracle of Ages / The Legend of Zelda: Oracle
+        of Seasons](https://github.com/jangler/oracles-randomizer)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: The Minish Cap'
+    url: https://github.com/minishmaker/randomizer
+    identifier: Minish Maker's
+    original: '- [The Legend of Zelda: The Minish Cap](https://github.com/minishmaker/randomizer)
+        (Minish Maker''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: A Link Between Worlds'
+    url: https://gitlab.com/marsolk/albw-randomizer-cli
+    identifier: Kevin Marsolais's
+    original: '- [The Legend of Zelda: A Link Between Worlds](https://gitlab.com/marsolk/albw-randomizer-cli)
+        (Kevin Marsolais''s) - _OBSOLETE_'
+    subheading: 2D & 2D-like
+    obsolete: true
+-   game: 'The Legend of Zelda: A Link Between Worlds'
+    url: https://github.com/rickfay/z17-randomizer
+    identifier: Rick Fay's
+    original: '- [The Legend of Zelda: A Link Between Worlds](https://github.com/rickfay/z17-randomizer)
+        (Rick Fay''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Faces of Evil Remastered (Link: The Faces of Evil fan recreation) /
+        The Wand of Gamelon Remastered (Zelda: The Wand of Gamelon fan recreation'
+    url: https://archive.org/details/foer-wogr-randomizer-mod
+    identifier: Dopply's
+    original: '- [The Faces of Evil Remastered (Link: The Faces of Evil fan recreation)
+        / The Wand of Gamelon Remastered (Zelda: The Wand of Gamelon fan recreation](https://archive.org/details/foer-wogr-randomizer-mod)
+        (Dopply''s)'
+    subheading: 2D & 2D-like
+-   game: 'The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Majora''s Mask'
+    url: https://ootmm.com/
+    identifier: OoTMM
+    original: '- [The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Majora''s
+        Mask](https://ootmm.com/) (OoTMM) - [Source code](https://github.com/OoTMM/core)'
+    subheading: 3D
+    comment: '- [Source code](https://github.com/OoTMM/core)'
+-   game: 'The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Ocarina of
+        Time Master Quest'
+    url: https://github.com/AmazingAmpharos/OoT-Randomizer
+    identifier: AmazingAmpharos's
+    original: '- [The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Ocarina
+        of Time Master Quest](https://github.com/AmazingAmpharos/OoT-Randomizer) (AmazingAmpharos''s)
+        - _OBSOLETE_'
+    subheading: 3D
+    obsolete: true
+-   game: 'The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Ocarina of
+        Time Master Quest'
+    url: https://ootrandomizer.com/
+    identifier: TestRunner's
+    original: '- [The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Ocarina
+        of Time Master Quest](https://ootrandomizer.com/) (TestRunner''s)'
+    subheading: 3D
+-   original: '- The Legend of Zelda: Ocarina of Time / The Legend of Zelda: Ocarina
+        of Time Master Quest - _See at end of list: Multi-series, Connected worlds_'
+-   game: 'The Legend of Zelda: Ocarina of Time'
+    url: https://www.mediafire.com/folder/8c5ez915mhfww/latest
+    identifier: Beta Quest
+    original: '- [The Legend of Zelda: Ocarina of Time](https://www.mediafire.com/folder/8c5ez915mhfww/latest)
+        (Beta Quest)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Ocarina of Time'
+    url: https://github.com/HarbourMasters/Shipwright
+    identifier: Ship of Harkinian
+    original: '- [The Legend of Zelda: Ocarina of Time](https://github.com/HarbourMasters/Shipwright)
+        (Ship of Harkinian) - Unofficial PC port with bundled randomizer'
+    subheading: 3D
+    comment: '- Unofficial PC port with bundled randomizer'
+-   game: 'The Legend of Zelda: Ocarina of Time 3D'
+    url: https://github.com/gamestabled/OoT3D_Randomizer
+    identifier: gamestabled's
+    original: '- [The Legend of Zelda: Ocarina of Time 3D](https://github.com/gamestabled/OoT3D_Randomizer)
+        (gamestabled''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Majora''s Mask'
+    url: https://www.zeldacodes.org/challenges/beta-quest
+    identifier: Beta Quest
+    original: '- [The Legend of Zelda: Majora''s Mask](https://www.zeldacodes.org/challenges/beta-quest)
+        (Beta Quest) - Requires a cheat engine supporting Gecko codes'
+    subheading: 3D
+    comment: '- Requires a cheat engine supporting Gecko codes'
+-   game: 'The Legend of Zelda: Majora''s Mask'
+    url: https://pastebin.com/M0asDmXy
+    identifier: DeathBasket's, 2013
+    original: '- [The Legend of Zelda: Majora''s Mask](https://pastebin.com/M0asDmXy)
+        (DeathBasket''s, 2013) - Randomizes items based on file name - Requires using
+        non-casual techniques'
+    subheading: 3D
+    comment: '- Randomizes items based on file name - Requires using non-casual techniques'
+-   game: 'The Legend of Zelda: Majora''s Mask'
+    url: https://www.youtube.com/watch?v=xIeNzcwWAtM
+    identifier: DeathBasket's, 2019
+    original: '- [The Legend of Zelda: Majora''s Mask](https://www.youtube.com/watch?v=xIeNzcwWAtM)
+        (DeathBasket''s, 2019) - Located in video description - Requires using non-casual
+        techniques - _OBSOLETE_'
+    subheading: 3D
+    obsolete: true
+    comment: '- Located in video description - Requires using non-casual techniques'
+-   game: 'The Legend of Zelda: Majora''s Mask'
+    url: https://github.com/ZoeyZolotova/mm-rando/releases
+    identifier: ZoeyZolotova's
+    original: '- [The Legend of Zelda: Majora''s Mask](https://github.com/ZoeyZolotova/mm-rando/releases)
+        (ZoeyZolotova''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Majora''s Mask 3D'
+    url: https://github.com/Z3DR/MM3D_Randomizer/releases
+    identifier: MM3D_Randomizer
+    original: '- [The Legend of Zelda: Majora''s Mask 3D](https://github.com/Z3DR/MM3D_Randomizer/releases)
+        (MM3D_Randomizer)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: The Wind Waker'
+    url: https://github.com/CryZe/WindWakerBetaQuest
+    identifier: Beta Quest
+    original: '- [The Legend of Zelda: The Wind Waker](https://github.com/CryZe/WindWakerBetaQuest)
+        (Beta Quest)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: The Wind Waker'
+    url: https://github.com/LagoLunatic/wwrando
+    identifier: LagoLunatic's
+    original: '- [The Legend of Zelda: The Wind Waker](https://github.com/LagoLunatic/wwrando)
+        (LagoLunatic''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Twilight Princess'
+    url: https://tprandomizer.com/
+    identifier: AECX's
+    original: '- [The Legend of Zelda: Twilight Princess](https://tprandomizer.com/)
+        (AECX''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Twilight Princess HD'
+    url: https://www.youtube.com/watch?v=ql7qzX1mPIY
+    identifier: Beta Quest
+    original: '- [The Legend of Zelda: Twilight Princess HD](https://www.youtube.com/watch?v=ql7qzX1mPIY)
+        (Beta Quest) - Located in video description - [Source code](https://github.com/zsrtp/TPHD-BetaQuest)'
+    subheading: 3D
+    comment: '- Located in video description - [Source code](https://github.com/zsrtp/TPHD-BetaQuest)'
+-   game: 'The Legend of Zelda: Skyward Sword'
+    url: https://github.com/ssrando/ssrando
+    identifier: lepelog's
+    original: '- [The Legend of Zelda: Skyward Sword](https://github.com/ssrando/ssrando)
+        (lepelog''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Breath of the Wild (Wii U)'
+    url: https://github.com/MelonSpeedruns/BotwRandomizer
+    identifier: MelonSpeedruns's
+    original: '- [The Legend of Zelda: Breath of the Wild (Wii U)](https://github.com/MelonSpeedruns/BotwRandomizer)
+        (MelonSpeedruns''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Breath of the Wild (Wii U)'
+    url: https://gamebanana.com/mods/354911
+    identifier: Randomized Leveled Chests
+    original: '- [The Legend of Zelda: Breath of the Wild (Wii U)](https://gamebanana.com/mods/354911)
+        (Randomized Leveled Chests)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Breath of the Wild (Wii U)'
+    url: https://gamebanana.com/mods/345664
+    identifier: Waikuteru's
+    original: '- [The Legend of Zelda: Breath of the Wild (Wii U)](https://gamebanana.com/mods/345664)
+        (Waikuteru''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Breath of the Wild (Switch)'
+    url: https://gamebanana.com/mods/345673
+    identifier: Waikuteru's
+    original: '- [The Legend of Zelda: Breath of the Wild (Switch)](https://gamebanana.com/mods/345673)
+        (Waikuteru''s)'
+    subheading: 3D
+-   game: 'The Legend of Zelda: Tears of the Kingdom'
+    url: https://github.com/MelonSpeedruns/TotkRandomizer
+    identifier: MelonSpeedruns's
+    original: '- [The Legend of Zelda: Tears of the Kingdom](https://github.com/MelonSpeedruns/TotkRandomizer)
+        (MelonSpeedruns''s)'
+    subheading: 3D

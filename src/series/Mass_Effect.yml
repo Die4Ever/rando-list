@@ -1,0 +1,13 @@
+name: Mass Effect
+comment: ''
+sub-series: []
+randomizers:
+-   game: Mass Effect 2
+    url: https://me3tweaks.com/masseffect2randomizer/
+    identifier: ME3Tweaks's
+    original: '- [Mass Effect 2](https://me3tweaks.com/masseffect2randomizer/) (ME3Tweaks''s)'
+-   game: Mass Effect 2 (Legendary Edition)
+    url: https://www.nexusmods.com/masseffectlegendaryedition/mods/1952
+    identifier: ME3Tweaks's
+    original: '- [Mass Effect 2 (Legendary Edition)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1952)
+        (ME3Tweaks''s)'

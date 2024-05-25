@@ -1,0 +1,9 @@
+name: Ogre
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Ogre Battle: The March of the Black Queen'
+    url: https://www.ogrebattlerandomizer.com/
+    identifier: spellzapp's
+    original: '- [Ogre Battle: The March of the Black Queen](https://www.ogrebattlerandomizer.com/)
+        (spellzapp''s)'

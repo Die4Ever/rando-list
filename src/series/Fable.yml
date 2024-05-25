@@ -1,0 +1,14 @@
+name: Fable
+comment: ''
+sub-series: []
+randomizers:
+-   game: Fable - The Lost Chapters
+    url: https://www.nexusmods.com/fablethelostchapters/mods/458
+    identifier: Creature Generator Randomiser
+    original: '- [Fable - The Lost Chapters](https://www.nexusmods.com/fablethelostchapters/mods/458)
+        (Creature Generator Randomiser)'
+-   game: Fable Anniversary
+    url: https://www.nexusmods.com/fableanniversary/mods/43
+    identifier: Creature Generator Randomiser
+    original: '- [Fable Anniversary](https://www.nexusmods.com/fableanniversary/mods/43)
+        (Creature Generator Randomiser)'

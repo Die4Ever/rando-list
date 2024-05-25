@@ -1,0 +1,10 @@
+name: The Messenger
+comment: ''
+sub-series: []
+randomizers:
+-   game: The Messenger
+    url: https://github.com/minous27/TheMessengerRandomizerMod
+    identifier: Minous27's
+    original: '- [The Messenger](https://github.com/minous27/TheMessengerRandomizerMod)
+        (Minous27''s)'
+-   original: '- The Messenger - _See at end of list: Multi-series, Connected worlds_'

@@ -1,0 +1,112 @@
+name: The Elder Scrolls
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'The Elder Scrolls III: Morrowind'
+    url: https://www.nexusmods.com/morrowind/mods/47306
+    identifier: 4NM_Randomizer
+    original: '- [The Elder Scrolls III: Morrowind](https://www.nexusmods.com/morrowind/mods/47306)
+        (4NM_Randomizer)'
+-   game: 'The Elder Scrolls III: Morrowind'
+    url: https://www.nexusmods.com/morrowind/mods/48632
+    identifier: Door Randomizer
+    original: '- [The Elder Scrolls III: Morrowind](https://www.nexusmods.com/morrowind/mods/48632)
+        (Door Randomizer)'
+-   game: 'The Elder Scrolls III: Morrowind'
+    url: https://www.nexusmods.com/morrowind/mods/51242
+    identifier: DRIP
+    original: '- [The Elder Scrolls III: Morrowind](https://www.nexusmods.com/morrowind/mods/51242)
+        (DRIP)'
+-   game: 'The Elder Scrolls III: Morrowind'
+    url: https://www.nexusmods.com/morrowind/mods/44989
+    identifier: mort's
+    original: '- [The Elder Scrolls III: Morrowind](https://www.nexusmods.com/morrowind/mods/44989)
+        (mort''s)'
+-   game: 'OpenMW (The Elder Scrolls III: Morrowind open source port)'
+    url: https://www.nexusmods.com/morrowind/mods/53455
+    identifier: Fancy Door Randomizer
+    original: '- [OpenMW (The Elder Scrolls III: Morrowind open source port)](https://www.nexusmods.com/morrowind/mods/53455)
+        (Fancy Door Randomizer)'
+-   game: 'OpenMW (The Elder Scrolls III: Morrowind open source port)'
+    url: https://www.nexusmods.com/morrowind/mods/53454
+    identifier: World Randomizer
+    original: '- [OpenMW (The Elder Scrolls III: Morrowind open source port)](https://www.nexusmods.com/morrowind/mods/53454)
+        (World Randomizer)'
+-   game: 'The Elder Scrolls IV: Oblivion'
+    url: https://www.nexusmods.com/oblivion/mods/51582
+    identifier: brknndd's
+    original: '- [The Elder Scrolls IV: Oblivion](https://www.nexusmods.com/oblivion/mods/51582)
+        (brknndd''s)'
+-   game: 'The Elder Scrolls IV: Oblivion'
+    url: https://www.nexusmods.com/oblivion/mods/49970
+    identifier: ddmlink's
+    original: '- [The Elder Scrolls IV: Oblivion](https://www.nexusmods.com/oblivion/mods/49970)
+        (ddmlink''s)'
+-   game: 'The Elder Scrolls IV: Oblivion'
+    url: https://www.nexusmods.com/oblivion/mods/53582
+    identifier: Leveled Armors and Weapons Randomizer
+    original: '- [The Elder Scrolls IV: Oblivion](https://www.nexusmods.com/oblivion/mods/53582)
+        (Leveled Armors and Weapons Randomizer)'
+-   game: 'The Elder Scrolls V: Skyrim'
+    url: https://www.nexusmods.com/skyrim/mods/61962
+    identifier: Fushigina Dungeon
+    original: '- [The Elder Scrolls V: Skyrim](https://www.nexusmods.com/skyrim/mods/61962)
+        (Fushigina Dungeon)'
+-   game: 'The Elder Scrolls V: Skyrim'
+    url: https://www.nexusmods.com/skyrim/mods/63933
+    identifier: Random Dungeon Generator
+    original: '- [The Elder Scrolls V: Skyrim](https://www.nexusmods.com/skyrim/mods/63933)
+        (Random Dungeon Generator) - _OBSOLETE_'
+    obsolete: true
+-   game: 'The Elder Scrolls V: Skyrim'
+    url: https://www.nexusmods.com/skyrim/mods/43409
+    identifier: Randomized Word Walls
+    original: '- [The Elder Scrolls V: Skyrim](https://www.nexusmods.com/skyrim/mods/43409)
+        (Randomized Word Walls)'
+-   game: 'The Elder Scrolls V: Skyrim'
+    url: https://www.nexusmods.com/skyrim/mods/114581
+    identifier: World Randomizer
+    original: '- [The Elder Scrolls V: Skyrim](https://www.nexusmods.com/skyrim/mods/114581)
+        (World Randomizer)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/107301
+    identifier: Alchemy Effects Randomizer, SKSE
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/107301)
+        (Alchemy Effects Randomizer, SKSE)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/41960
+    identifier: Alchemy Effects Randomizer, zEdit
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/41960)
+        (Alchemy Effects Randomizer, zEdit)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/23838
+    identifier: Randomized Birthstones
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/23838)
+        (Randomized Birthstones)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/13757
+    identifier: Randomized Word Walls
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/13757)
+        (Randomized Word Walls) - _OBSOLETE_'
+    obsolete: true
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/81881
+    identifier: Serpent's Modular Randomizer
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/81881)
+        (Serpent''s Modular Randomizer)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition / The Elder Scrolls V: Skyrim
+        VR'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/70839
+    identifier: ToxiRandomizer
+    original: '- [The Elder Scrolls V: Skyrim Special Edition / The Elder Scrolls
+        V: Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/70839) (ToxiRandomizer)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/41616
+    identifier: Word Walls Randomizer
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/41616)
+        (Word Walls Randomizer)'
+-   game: 'The Elder Scrolls V: Skyrim Special Edition'
+    url: https://www.nexusmods.com/skyrimspecialedition/mods/79974
+    identifier: World Randomizer
+    original: '- [The Elder Scrolls V: Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/79974)
+        (World Randomizer)'

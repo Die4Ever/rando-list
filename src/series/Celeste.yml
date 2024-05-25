@@ -1,0 +1,10 @@
+name: Celeste
+comment: ''
+sub-series: []
+randomizers:
+-   game: Celeste
+    url: https://github.com/rhelmot/CelesteRandomizer
+    identifier: rhelmot's
+    original: '- [Celeste](https://github.com/rhelmot/CelesteRandomizer) (rhelmot''s)'
+-   original: '- Celeste 64: Fragments of the Mountain - _See at end of list: Multi-series,
+        Connected worlds_'

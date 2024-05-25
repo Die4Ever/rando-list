@@ -1,0 +1,9 @@
+name: Hitman
+comment: ''
+sub-series: []
+randomizers:
+-   game: Hitman World of Assassination
+    url: https://github.com/pawREP/ZHM5Randomizer
+    identifier: ZHM5Randomizer
+    original: '- [Hitman World of Assassination](https://github.com/pawREP/ZHM5Randomizer)
+        (ZHM5Randomizer)'

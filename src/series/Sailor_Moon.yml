@@ -1,0 +1,10 @@
+name: Sailor Moon
+comment: ''
+sub-series: []
+randomizers:
+-   game: Pretty Soldier Sailor Moon
+    url: https://www.romhacking.net/utilities/1600/
+    identifier: PSSME
+    original: '- [Pretty Soldier Sailor Moon](https://www.romhacking.net/utilities/1600/)
+        (PSSME) - Game editor with bundled randomizer'
+    comment: '- Game editor with bundled randomizer'

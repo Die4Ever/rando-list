@@ -1,0 +1,8 @@
+name: ActRaiser
+comment: ''
+sub-series: []
+randomizers:
+-   game: ActRaiser
+    url: https://github.com/Osteoclave/actraiser-randomizer
+    identifier: Osteoclave's
+    original: '- [ActRaiser](https://github.com/Osteoclave/actraiser-randomizer) (Osteoclave''s)'

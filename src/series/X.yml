@@ -1,0 +1,22 @@
+name: X
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'X2: The Threat'
+    url: https://xehonk.de/projects/galaxyeditor.php
+    identifier: Galaxy Editor
+    original: '- [X2: The Threat](https://xehonk.de/projects/galaxyeditor.php) (Galaxy
+        Editor) - Includes random galaxy creator - _OBSOLETE_'
+    obsolete: true
+    comment: '- Includes random galaxy creator'
+-   game: 'X2: The Threat'
+    url: https://sourceforge.net/projects/xuniversewizard/
+    identifier: XUniverseWizard
+    original: '- [X2: The Threat](https://sourceforge.net/projects/xuniversewizard/)
+        (XUniverseWizard) - Download of dependency requires Egosoft account'
+    comment: '- Download of dependency requires Egosoft account'
+-   game: 'X3: Terran Conflict'
+    url: https://forum.egosoft.com/viewtopic.php?f=94&t=397700
+    identifier: AP Map Generator
+    original: '- [X3: Terran Conflict](https://forum.egosoft.com/viewtopic.php?f=94&t=397700)
+        (AP Map Generator)'

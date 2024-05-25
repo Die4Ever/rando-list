@@ -1,0 +1,10 @@
+name: Factorio
+comment: ''
+sub-series: []
+randomizers:
+-   game: Factorio
+    url: https://mods.factorio.com/?version=1.1&search_order=updated&query=randomize
+    identifier: Official Mod Portal - Randomizers
+    original: '- [Factorio](https://mods.factorio.com/?version=1.1&search_order=updated&query=randomize)
+        (Official Mod Portal - Randomizers)'
+-   original: '- Factorio - _See at end of list: Multi-series, Connected worlds_'

@@ -1,0 +1,9 @@
+name: Front Mission
+comment: ''
+sub-series: []
+randomizers:
+-   game: 'Front Mission 5: Scars of the War'
+    url: https://github.com/KhaleedSA/FM5RandomizerApp
+    identifier: Khalid SA's
+    original: '- [Front Mission 5: Scars of the War](https://github.com/KhaleedSA/FM5RandomizerApp)
+        (Khalid SA''s)'

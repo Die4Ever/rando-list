@@ -1,0 +1,176 @@
+name: Mario
+comment: ''
+sub-series:
+- 2D & 2D-like platformers
+- 3D platformers
+- Racing
+- RPGs
+randomizers:
+-   game: Super Mario Bros.
+    url: https://github.com/Coolcord/Level-Headed
+    identifier: Level-Headed
+    original: '- [Super Mario Bros.](https://github.com/Coolcord/Level-Headed) (Level-Headed)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario Bros. 2
+    url: https://github.com/pepperpow/smb2-door-randomizer
+    identifier: Door Randomizer
+    original: '- [Super Mario Bros. 2](https://github.com/pepperpow/smb2-door-randomizer)
+        (Door Randomizer)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario Bros. 2
+    url: https://github.com/macobra52/SMB2-Randomizer
+    identifier: MaCobra52's
+    original: '- [Super Mario Bros. 2](https://github.com/macobra52/SMB2-Randomizer)
+        (MaCobra52''s)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario Bros. 2
+    url: https://github.com/tetraly/smb2r
+    identifier: tetraly's
+    original: '- [Super Mario Bros. 2](https://github.com/tetraly/smb2r) (tetraly''s)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario Bros. 3
+    url: https://sites.google.com/site/smb3randomizer/home
+    identifier: Fred Coughlin's
+    original: '- [Super Mario Bros. 3](https://sites.google.com/site/smb3randomizer/home)
+        (Fred Coughlin''s)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario Bros. 3
+    url: https://github.com/CujoIHSV/SMB3RR/releases
+    identifier: Route Randomizer
+    original: '- [Super Mario Bros. 3](https://github.com/CujoIHSV/SMB3RR/releases)
+        (Route Randomizer) - _OBSOLETE_'
+    subheading: 2D & 2D-like platformers
+    obsolete: true
+-   game: Super Mario Bros. 3
+    url: https://ssjtroly.github.io/smb3-nes-web-randomizer/
+    identifier: ssjtroly's
+    original: '- [Super Mario Bros. 3](https://ssjtroly.github.io/smb3-nes-web-randomizer/)
+        (ssjtroly''s)'
+    subheading: 2D & 2D-like platformers
+-   original: '- Super Mario World - _See at end of list: Multi-series, Connected
+        worlds_'
+-   game: Super Mario World
+    url: https://authorblues.github.io/smwrandomizer/
+    identifier: authorblues's
+    original: '- [Super Mario World](https://authorblues.github.io/smwrandomizer/)
+        (authorblues''s)'
+    subheading: 2D & 2D-like platformers
+-   game: 'Super Mario Land 2: 6 Golden Coins / Super Mario Land 2 DX (hack)'
+    url: https://sml2r.download/
+    identifier: dadinfinitum's
+    original: '- [Super Mario Land 2: 6 Golden Coins / Super Mario Land 2 DX (hack)](https://sml2r.download/)
+        (dadinfinitum''s)'
+    subheading: 2D & 2D-like platformers
+-   game: New Super Mario Bros. Wii
+    url: https://hbrohei.github.io/NSMRWii/
+    identifier: HBroHei's
+    original: '- [New Super Mario Bros. Wii](https://hbrohei.github.io/NSMRWii/) (HBroHei''s)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario Bros. Wonder
+    url: https://github.com/MH13-YT/SMBW-Randomizer
+    identifier: MH13's
+    original: '- [Super Mario Bros. Wonder](https://github.com/MH13-YT/SMBW-Randomizer)
+        (MH13''s)'
+    subheading: 2D & 2D-like platformers
+-   game: Super Mario 64
+    url: https://github.com/aGlitch/Mario-64-Randomizer
+    identifier: aGlitch's
+    original: '- [Super Mario 64](https://github.com/aGlitch/Mario-64-Randomizer)
+        (aGlitch''s)'
+    subheading: 3D platformers
+-   game: Super Mario 64
+    url: https://github.com/andrelikesdogs/sm64-randomizer
+    identifier: Andre Meyer's
+    original: '- [Super Mario 64](https://github.com/andrelikesdogs/sm64-randomizer)
+        (Andre Meyer''s)'
+    subheading: 3D platformers
+-   game: Super Mario 64
+    url: https://romhacking.com/hack/sm64-randomizer
+    identifier: Arthurtilly's
+    original: '- [Super Mario 64](https://romhacking.com/hack/sm64-randomizer) (Arthurtilly''s)'
+    subheading: 3D platformers
+-   original: '- Super Mario 64 - _See at end of list: Multi-series, Connected worlds_'
+-   game: Super Mario Galaxy / Super Mario Galaxy 2
+    url: https://www.youtube.com/watch?v=4xXHTxTe9i8
+    identifier: thegreatwaluigi's
+    original: '- [Super Mario Galaxy / Super Mario Galaxy 2](https://www.youtube.com/watch?v=4xXHTxTe9i8)
+        (thegreatwaluigi''s) - Located in video description'
+    subheading: 3D platformers
+    comment: '- Located in video description'
+-   game: Mario Kart 64
+    url: https://www.romhacking.net/hacks/6409/
+    identifier: Seohaine's
+    original: '- [Mario Kart 64](https://www.romhacking.net/hacks/6409/) (Seohaine''s)'
+    subheading: Racing
+-   game: 'Super Mario RPG: Legend of the Seven Stars'
+    url: https://github.com/abyssonym/smrpg_gbarp
+    identifier: Gentle Beauty and Raw Power
+    original: '- [Super Mario RPG: Legend of the Seven Stars](https://github.com/abyssonym/smrpg_gbarp)
+        (Gentle Beauty and Raw Power) - _OBSOLETE_'
+    subheading: RPGs
+    obsolete: true
+-   game: 'Super Mario RPG: Legend of the Seven Stars'
+    url: https://randomizer.smrpgspeedruns.com/
+    identifier: Open World
+    original: '- [Super Mario RPG: Legend of the Seven Stars](https://randomizer.smrpgspeedruns.com/)
+        (Open World)'
+    subheading: RPGs
+-   game: Super Mario RPG (Switch)
+    url: https://github.com/ObsidianMakerDevelopment/super-mario-rpg-switch-randomizer
+    identifier: ObsidianMaker's
+    original: '- [Super Mario RPG (Switch)](https://github.com/ObsidianMakerDevelopment/super-mario-rpg-switch-randomizer)
+        (ObsidianMaker''s)'
+    subheading: RPGs
+-   game: Paper Mario
+    url: https://www.youtube.com/watch?v=MWrXdQ_IiJw
+    identifier: Black Pit
+    original: '- [Paper Mario](https://www.youtube.com/watch?v=MWrXdQ_IiJw) (Black
+        Pit) - Located in video description'
+    subheading: RPGs
+    comment: '- Located in video description'
+-   game: Paper Mario
+    url: https://pm64randomizer.com/
+    identifier: Icebound777, Clover and Pronyo's
+    original: '- [Paper Mario](https://pm64randomizer.com/) (Icebound777, Clover and
+        Pronyo''s)'
+    subheading: RPGs
+-   game: 'Paper Mario: The Thousand-Year Door'
+    url: https://github.com/jdaster64/ttyd-infinite-pit
+    identifier: Infinite Pit
+    original: '- [Paper Mario: The Thousand-Year Door](https://github.com/jdaster64/ttyd-infinite-pit)
+        (Infinite Pit)'
+    subheading: RPGs
+-   game: 'Paper Mario: The Thousand-Year Door'
+    url: https://github.com/jdaster64/shufflizer
+    identifier: Shufflizer
+    original: '- [Paper Mario: The Thousand-Year Door](https://github.com/jdaster64/shufflizer)
+        (Shufflizer)'
+    subheading: RPGs
+-   game: 'Paper Mario: The Thousand-Year Door'
+    url: https://www.dropbox.com/s/twt9121mhzti9w3/Misc_Randomizers.zip?dl=0
+    identifier: Zephiles's Enemy HP and Item Drops Randomizers
+    original: '- [Paper Mario: The Thousand-Year Door](https://www.dropbox.com/s/twt9121mhzti9w3/Misc_Randomizers.zip?dl=0)
+        (Zephiles''s Enemy HP and Item Drops Randomizers) - Requires a cheat engine
+        supporting Gecko codes'
+    subheading: RPGs
+    comment: '- Requires a cheat engine supporting Gecko codes'
+-   game: 'Paper Mario: The Thousand-Year Door'
+    url: https://www.speedrun.com/ttyd/resources
+    identifier: Zephiles's Item and Loading Zones Randomizers
+    original: '- [Paper Mario: The Thousand-Year Door](https://www.speedrun.com/ttyd/resources)
+        (Zephiles''s Item and Loading Zones Randomizers) - Located under Tools as
+        Miscellaneous Cheat Codes'
+    subheading: RPGs
+    comment: '- Located under Tools as Miscellaneous Cheat Codes'
+-   game: Super Paper Mario
+    url: https://github.com/skawo/Super-Paper-Mario-Level-Editor-Randomizer
+    identifier: Level Editor and Randomizer
+    original: '- [Super Paper Mario](https://github.com/skawo/Super-Paper-Mario-Level-Editor-Randomizer)
+        (Level Editor and Randomizer)'
+    subheading: RPGs
+-   game: 'Mario & Luigi: Superstar Saga'
+    url: https://github.com/jamesbrq/MLSSRandomizer
+    identifier: jamesbrq's
+    original: '- [Mario & Luigi: Superstar Saga](https://github.com/jamesbrq/MLSSRandomizer)
+        (jamesbrq''s)'
+    subheading: RPGs

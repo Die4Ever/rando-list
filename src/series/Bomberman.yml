@@ -1,0 +1,10 @@
+name: Bomberman
+comment: ''
+sub-series: []
+randomizers:
+-   game: Bomberman Tournament
+    url: https://btrando.surge.sh/
+    identifier: fusecv's
+    original: '- [Bomberman Tournament](https://btrando.surge.sh/) (fusecv''s)'
+-   original: '- Bomberman Tournament - _See at end of list: Multi-series, Connected
+        worlds_'

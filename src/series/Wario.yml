@@ -1,0 +1,12 @@
+name: Wario
+comment: ''
+sub-series: []
+randomizers:
+-   game: Wario Land 3
+    url: https://github.com/AaronDobbe/wl3-randomizer
+    identifier: AaronDobbe's
+    original: '- [Wario Land 3](https://github.com/AaronDobbe/wl3-randomizer) (AaronDobbe''s)'
+-   game: Wario Land 4
+    url: https://github.com/IsaGoodFriend/WL4-Randomizer
+    identifier: IsaGoodFriend's
+    original: '- [Wario Land 4](https://github.com/IsaGoodFriend/WL4-Randomizer) (IsaGoodFriend''s)'

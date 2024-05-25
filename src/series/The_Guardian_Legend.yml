@@ -1,0 +1,16 @@
+name: The Guardian Legend
+comment: ''
+sub-series: []
+randomizers:
+-   game: The Guardian Legend
+    url: https://www.synchrocade.com/tgl
+    identifier: fireball87's
+    original: '- [The Guardian Legend](https://www.synchrocade.com/tgl) (fireball87''s)
+        - [Source code](https://github.com/fireball87/GuardianLegendRando)'
+    comment: '- [Source code](https://github.com/fireball87/GuardianLegendRando)'
+-   game: The Guardian Legend
+    url: https://micheilskeens.com/guardian-legend-randomizer.php
+    identifier: Micheil Skeens's
+    original: '- [The Guardian Legend](https://micheilskeens.com/guardian-legend-randomizer.php)
+        (Micheil Skeens''s) - _OBSOLETE_'
+    obsolete: true

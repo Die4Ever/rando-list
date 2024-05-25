@@ -1,0 +1,9 @@
+name: Kururin
+comment: ''
+sub-series: []
+randomizers:
+-   game: KuruKuru Kururin
+    url: https://github.com/GirambQuamb/KuruKuruKurandomizer
+    identifier: KuruKuruKurandomizer
+    original: '- [KuruKuru Kururin](https://github.com/GirambQuamb/KuruKuruKurandomizer)
+        (KuruKuruKurandomizer)'

@@ -1,0 +1,8 @@
+name: Lizard
+comment: ''
+sub-series: []
+randomizers:
+-   game: Lizard
+    url: https://rainwarrior.ca/lizard/lizard_of_random.html
+    identifier: Official
+    original: '- [Lizard](https://rainwarrior.ca/lizard/lizard_of_random.html) (Official)'

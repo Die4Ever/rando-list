@@ -1,0 +1,14 @@
+name: The World Ends with You
+comment: ''
+sub-series: []
+randomizers:
+-   game: The World Ends with You
+    url: https://github.com/abyssonym/fractalizon
+    identifier: Fractalizon
+    original: '- [The World Ends with You](https://github.com/abyssonym/fractalizon)
+        (Fractalizon)'
+-   game: 'NEO: The World Ends with You'
+    url: https://github.com/SaltContainer/NEO-TWEWY-Randomizer
+    identifier: SaltContainer's
+    original: '- [NEO: The World Ends with You](https://github.com/SaltContainer/NEO-TWEWY-Randomizer)
+        (SaltContainer''s)'

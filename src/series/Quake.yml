@@ -1,0 +1,15 @@
+name: Quake
+comment: ''
+sub-series: []
+randomizers:
+-   original: '- Quake / Quake II - _See at end of list: Multi-series, id Software
+        engines_'
+-   game: Quake
+    url: https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/
+    identifier: RandoQ
+    original: '- [Quake](https://www.reddit.com/r/quake/comments/q3d0mc/quake_randomizer_updated_for_the_quake_rerelease/)
+        (RandoQ)'
+-   game: Quake II
+    url: https://www.nexusmods.com/quake2/mods/6
+    identifier: Campaign Randomizer
+    original: '- [Quake II](https://www.nexusmods.com/quake2/mods/6) (Campaign Randomizer)'

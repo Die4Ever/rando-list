@@ -1,0 +1,9 @@
+name: Timespinner
+comment: ''
+sub-series: []
+randomizers:
+-   game: Timespinner
+    url: https://github.com/Jarno458/TsRandomizer
+    identifier: Jarno's
+    original: '- [Timespinner](https://github.com/Jarno458/TsRandomizer) (Jarno''s)'
+-   original: '- Timespinner - _See at end of list: Multi-series, Connected worlds_'
